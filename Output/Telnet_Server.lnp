@@ -1,0 +1,26 @@
+--cpu Cortex-M3
+".\output\telnet_server.o"
+".\output\telnet_server_uif.o"
+".\output\rtc.o"
+".\output\backlight.o"
+".\output\timer.o"
+".\output\sntp.o"
+".\output\adc_mcbstm32c.o"
+".\output\glcd_fonts.o"
+".\output\glcd_mcbstm32c.o"
+".\output\led_mcbstm32c.o"
+"C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS\RTX\LIB\ARM\RTX_CM3.lib"
+".\output\rtx_conf_cm.o"
+".\output\phy_dp83848c.o"
+".\output\emac_stm32f10x.o"
+".\output\spi_stm32f10x.o"
+".\output\dma_stm32f10x.o"
+".\output\gpio_stm32f10x.o"
+".\output\startup_stm32f10x_cl.o"
+".\output\system_stm32f10x.o"
+"C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.4.1\Network\Lib\ARM\Net_CM3_L.lib"
+".\output\net_config.o"
+--library_type=microlib --strict --scatter ".\Output\Telnet_Server.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Output\Telnet_Server.map" -o .\Output\Telnet_Server.axf

@@ -1,0 +1,14 @@
+.\output\telnet_server_uif.o: Telnet_Server_UIF.c
+.\output\telnet_server_uif.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\output\telnet_server_uif.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\output\telnet_server_uif.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS\RTX\INC\cmsis_os.h
+.\output\telnet_server_uif.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\telnet_server_uif.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\output\telnet_server_uif.o: C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.4.1\Network\Include\rl_net.h
+.\output\telnet_server_uif.o: C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.4.1\Network\Include\rl_net_ds.h
+.\output\telnet_server_uif.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\output\telnet_server_uif.o: .\RTE\_STM32F107_Flash\RTE_Components.h
+.\output\telnet_server_uif.o: rtc.h
+.\output\telnet_server_uif.o: Backlight.h
+.\output\telnet_server_uif.o: sntp.h
+.\output\telnet_server_uif.o: C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.4.1\Board\Board_LED.h
